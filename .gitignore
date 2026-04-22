@@ -1,0 +1,8 @@
+# Hide credentials
+secrets.h
+*.credentials
+
+# Arduino build files
+build/
+*.bin
+*.elf
