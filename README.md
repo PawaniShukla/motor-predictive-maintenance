@@ -96,19 +96,19 @@ Industrial motors fail without warning, causing costly downtime. This system con
 
 
 
-\### Vibration (Field 1)
+&#x20;Vibration (Field 1)
 
 !\[Vibration](docs/thingspeak\_graphs/vibration\_simulation.png)
 
 
 
-\### Current (Field 2)
+&#x20;Current (Field 2)
 
 !\[Current](docs/thingspeak\_graphs/current\_simulation.png)
 
 
 
-\### Temperature (Field 3)
+&#x20;Temperature (Field 3)
 
 !\[Temperature](docs/thingspeak\_graphs/temperature\_simulation.png)
 
